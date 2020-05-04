@@ -1,0 +1,2 @@
+1. Perkalian vektor (dot dan cross) harus di dalami lagi masalah
+   vektor pada matematikanya
